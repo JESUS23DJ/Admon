@@ -1,0 +1,14 @@
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\bin\Debug\SesionUsuarios.exe.config
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\bin\Debug\SesionUsuarios.exe
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\bin\Debug\SesionUsuarios.pdb
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.csprojAssemblyReference.cache
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.Login.resources
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.Properties.Resources.resources
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.csproj.GenerateResource.cache
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.csproj.CoreCompileInputs.cache
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.exe
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.pdb
+D:\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.MDI_Menu.resources
+C:\Users\super\Documents\ORQUIDEA\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.csprojAssemblyReference.cache
+C:\Users\super\Documents\ORQUIDEA\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.exe
+C:\Users\super\Documents\ORQUIDEA\Admon. BD\SesionUsuarios\SesionUsuarios\obj\Debug\SesionUsuarios.pdb
